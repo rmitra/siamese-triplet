@@ -1,4 +1,3 @@
-cd siamese-triplet
 mkdir -p MNIST/raw
 mkdir -p MNIST/processed
 cd MNIST/raw
